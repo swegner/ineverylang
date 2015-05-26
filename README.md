@@ -6,9 +6,10 @@ InEveryLang is a somewhat-messy Middleman project. At the time I originally wrot
 
 But, it should run just like any other ruby/middleman project.
 
-1. Clone it
-2. `bundle install`
-3. `middleman`
+1. Install [Middleman](https://middlemanapp.com/basics/install/)
+2. Clone it
+3. `bundle install`
+4. `middleman`
 
 Those 3 simple steps should get you up and running on [your localhost](http://localhost:4567).
 
