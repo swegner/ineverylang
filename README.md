@@ -51,7 +51,7 @@ There's a couple things you have to do in order to add a brand new puzzle.
 
 3. Set the source in the frontmatter
 
-  If the code your submitting isn't yours, put a link here to wherever you got it from. If it is yours, this is your chance for some shameless self promotion - link to your portfolio, twitter, or a rickroll.
+  If the code you're submitting isn't yours, put a link here to wherever you got it from. If it is yours, this is your chance for some shameless self promotion - link to your portfolio, twitter, or a rickroll.
 
   **If you submit a solution attributed to yourself, and I find out that you are not the original source, I will remove your submission. I will also find some way to ruthlessly publicly shame you, because that's super not cool.**
 
