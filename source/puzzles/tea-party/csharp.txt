@@ -1,11 +1,13 @@
----
-source: http://codingkata.net/Katas/Beginner/TeaParty
----
 public class TeaPartyKata : ITeaPartyKata
 {
     public string Welcome(string lastName, bool isWoman, bool isSir)
     {
-        throw new NotImplementedException();
+        string title;
+        if (isWoman) title = "Ms.";
+        else if (isSir) title = "Sir";
+        else title = "Mr.";
+
+        return string.Format("Hello {0} {1}", title, lastName);
     }
 }
 
